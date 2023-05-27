@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import Profile from './Profile/Profile';
 import Statistics from './Statistics/Statistics';
 import FriendList from './FriendList/FriendList';
-import friends from '../components/Pr';
+import friends from './friends.json';
 import FriendListItem from './FriendList/FriendListItem';
 import TransactionHistory from './TransactionHistory/TransactionHistory';
 import data from './data.json';
